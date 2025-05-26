@@ -1,11 +1,32 @@
-p{color:#6301beaf}
+p{color:#38006caf}
 .conan{background-color: rgb(54, 54, 161);}
 a.gracelink{padding:0px 30px;margin: 0px 0px 0px 10px;border-radius:50px;color:rgb(199, 118, 199)}
-a.gracelink:hover{background-color:rgb(200, 130, 200);color:white;}
-div.gracedivgrey{background-color: rgb(235, 235, 235);padding:30px;border-radius: 10px;border: 1px solid black;color: rgb(0, 0, 0);width: 100%;}
+a.gracelink:hover{background-color:rgb(200, 130, 200);color:rgb(255, 255, 255);}
+div.gracedivgrey{background-color: rgb(244, 222, 255);padding:30px;border-radius: 10px;border: 1px solid rgb(119, 5, 142);color: rgb(0, 0, 0);width: 100%;}
 .gracecrop{height:200px;overflow:hidden;object-fit: cover;margin: 10px 5px;border-radius: 10px;}
-.gracecolor{background-color:rgb(200, 130, 200);color:white}
+.gracecolor{background-color:rgb(200, 130, 200);color:rgb(255, 255, 255)}
 .gracecallmebg{background-image: url("../assets/photo/BTSphoto1.jpg");background-size: cover;background-repeat: no-repeat;}
 section.gracebackcolor{background-color: #f2e4ff;}
 .gracelastcolor1{color:#ffffff}
 .gracelastcolor2{color:#000000}
+button.favoritestyled{
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgb(119, 5, 142);
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+button {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;}
+.gracecolor3{color:rgb(119, 5, 142)}
