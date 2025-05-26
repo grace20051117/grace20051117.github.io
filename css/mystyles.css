@@ -1,9 +1,11 @@
-p{color:#B15BFF}
+p{color:#6301beaf}
 .conan{background-color: rgb(54, 54, 161);}
 a.gracelink{padding:0px 30px;margin: 0px 0px 0px 10px;border-radius:50px;color:rgb(199, 118, 199)}
 a.gracelink:hover{background-color:rgb(200, 130, 200);color:white;}
-div.gracedivgrey{background-color: rgb(217, 216, 216);padding:30px;border-radius: 10px;border: 1px solid black;color: rgb(0, 0, 0);width: 100%;}
+div.gracedivgrey{background-color: rgb(235, 235, 235);padding:30px;border-radius: 10px;border: 1px solid black;color: rgb(0, 0, 0);width: 100%;}
 .gracecrop{height:200px;overflow:hidden;object-fit: cover;margin: 10px 5px;border-radius: 10px;}
 .gracecolor{background-color:rgb(200, 130, 200);color:white}
-.gracecallmebg{background-image: url("../assets/photo/7-2.jpeg");background-size: cover;background-repeat: no-repeat;}
+.gracecallmebg{background-image: url("../assets/photo/BTSphoto1.jpg");background-size: cover;background-repeat: no-repeat;}
 section.gracebackcolor{background-color: #f2e4ff;}
+.gracelastcolor1{color:#ffffff}
+.gracelastcolor2{color:#000000}
